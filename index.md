@@ -1,5 +1,3 @@
-# Test
-
 | Syntax      | Description |
 | ----------- | ----------- |
 | [Google Bard](https://bard.google.com/) | An experimental conversational AI service powered by LaMDA, Google AI's factual language model. |
