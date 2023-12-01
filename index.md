@@ -10,3 +10,6 @@
 | [Character.ai](https://character.ai/) | Chat with AI-powered characters. |
 | [ElevenLabs](https://elevenlabs.io/) | Generate realistic speech with the most advanced AI voice model ever. |
 | [Opus Clip](https://www.opus.pro/) | A generative AI video tool that repurposes long talking videos into shorts in one click. |
+
+
+<sub>[suggest a site](mailto:suggest@pickmy.ai)</sub>
