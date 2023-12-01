@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+thead {
+  margin: 0;
+  opacity: 0;
+  height: 0;
+  visibility: collapse;
+}
