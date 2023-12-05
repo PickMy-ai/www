@@ -10,6 +10,9 @@
 | [Character.ai](https://character.ai/) | Chat with AI-powered characters. |
 | [ElevenLabs](https://elevenlabs.io/) | Generate realistic speech with the most advanced AI voice model ever. |
 | [Opus Clip](https://www.opus.pro/) | A generative AI video tool that repurposes long talking videos into shorts in one click. |
+| [Writesonic](https://writesonic.com/) | An AI writing tool for creating content, chatbots, and more. |
+| [Bardeen](https://www.bardeen.ai/) | Automate workflows using AI to save time and be more productive. |
+| [Durable](https://durable.co/) | Build a website in 30 minutes with AI. |
 
 
 <sub>[suggest a site](mailto:suggest@pickmy.ai)</sub>
