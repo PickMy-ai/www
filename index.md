@@ -13,6 +13,10 @@
 | [Writesonic](https://writesonic.com/) | An AI writing tool for creating content, chatbots, and more. |
 | [Bardeen](https://www.bardeen.ai/) | Automate workflows using AI to save time and be more productive. |
 | [Durable](https://durable.co/) | Build a website in 30 minutes with AI. |
+| [Iris.ai](https://iris.ai/) | Leverage AI to assist with various research tasks, including finding relevant articles and summarizing data. |
+| [AI Dungeon](https://aidungeon.com/) | Generate text-based adventures with AI and explore different storylines. |
+| [Uizard](https://uizard.io/) | Use AI to design and prototype user interfaces with ease. |
+| []() |  |
 
 
 <sub>[suggest a site](mailto:suggest@pickmy.ai)</sub>
